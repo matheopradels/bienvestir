@@ -1,0 +1,11 @@
+# gitignore
+__pycache__/
+.venv/
+data/
+models/
+results/
+logs/
+.env
+.streamlit/secrets.toml
+.DS_Store
+.ipynb_checkpoints/
